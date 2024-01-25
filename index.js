@@ -29,8 +29,6 @@ const createUserCard = (data)=>{
                 <li>${data.following}<strong>Following</strong></li>
                 <li>${data.public_repos}<strong>Repository</strong></li>
             </ul>
-            <div class="repo" id="repos">
-            <div class="repoBio" id="reposBio">
             </div>
         </div>
     </div>
